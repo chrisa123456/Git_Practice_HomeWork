@@ -5,5 +5,7 @@ public class Hat {
         // new branch new clas hat
 
         // just updated new line for hat
+
+        // update second time
     }
 }
